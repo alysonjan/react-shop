@@ -1,0 +1,3 @@
+admin = adminko@gmail.com password = admin123
+
+user = user@mail.com password = user
